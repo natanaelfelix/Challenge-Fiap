@@ -1,0 +1,11 @@
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\bin\Debug\net5\CHAFIAP.MODEL.deps.json
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\bin\Debug\net5\CHAFIAP.MODEL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\bin\Debug\net5\ref\CHAFIAP.MODEL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\bin\Debug\net5\CHAFIAP.MODEL.pdb
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\obj\Debug\net5\CHAFIAP.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\obj\Debug\net5\CHAFIAP.MODEL.AssemblyInfoInputs.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\obj\Debug\net5\CHAFIAP.MODEL.AssemblyInfo.cs
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\obj\Debug\net5\CHAFIAP.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\obj\Debug\net5\CHAFIAP.MODEL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\obj\Debug\net5\ref\CHAFIAP.MODEL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.MODEL\obj\Debug\net5\CHAFIAP.MODEL.pdb

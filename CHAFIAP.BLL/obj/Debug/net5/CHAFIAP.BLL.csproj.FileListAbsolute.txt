@@ -1,0 +1,17 @@
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\bin\Debug\net5\CHAFIAP.BLL.deps.json
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\bin\Debug\net5\CHAFIAP.BLL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\bin\Debug\net5\ref\CHAFIAP.BLL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\bin\Debug\net5\CHAFIAP.BLL.pdb
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\bin\Debug\net5\CHAFIAP.DAL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\bin\Debug\net5\CHAFIAP.MODEL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\bin\Debug\net5\CHAFIAP.DAL.pdb
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\bin\Debug\net5\CHAFIAP.MODEL.pdb
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\obj\Debug\net5\CHAFIAP.BLL.csprojAssemblyReference.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\obj\Debug\net5\CHAFIAP.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\obj\Debug\net5\CHAFIAP.BLL.AssemblyInfoInputs.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\obj\Debug\net5\CHAFIAP.BLL.AssemblyInfo.cs
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\obj\Debug\net5\CHAFIAP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\obj\Debug\net5\CHAFIAP.BLL.csproj.CopyComplete
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\obj\Debug\net5\CHAFIAP.BLL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\obj\Debug\net5\ref\CHAFIAP.BLL.dll
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.BLL\obj\Debug\net5\CHAFIAP.BLL.pdb

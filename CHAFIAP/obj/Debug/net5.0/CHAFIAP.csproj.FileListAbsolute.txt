@@ -1,0 +1,8 @@
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP\obj\Debug\net5.0\CHAFIAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP\obj\Debug\net5.0\CHAFIAP.AssemblyInfoInputs.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP\obj\Debug\net5.0\CHAFIAP.AssemblyInfo.cs
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP\obj\Debug\net5.0\CHAFIAP.csproj.CoreCompileInputs.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP\obj\Debug\net5.0\CHAFIAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP\obj\Debug\net5.0\CHAFIAP.RazorAssemblyInfo.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP\obj\Debug\net5.0\CHAFIAP.RazorAssemblyInfo.cs
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP\obj\Debug\net5.0\CHAFIAP.csprojAssemblyReference.cache

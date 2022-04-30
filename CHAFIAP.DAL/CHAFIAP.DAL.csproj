@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Dapper" Version="2.0.123" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+		<PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.50" />
+	</ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CHAFIAP.MODEL\CHAFIAP.MODEL.csproj" />
+  </ItemGroup>
+
+</Project>

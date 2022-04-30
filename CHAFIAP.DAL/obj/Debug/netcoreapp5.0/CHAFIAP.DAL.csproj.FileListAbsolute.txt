@@ -1,0 +1,5 @@
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.DAL\obj\Debug\netcoreapp5.0\CHAFIAP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.DAL\obj\Debug\netcoreapp5.0\CHAFIAP.DAL.AssemblyInfoInputs.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.DAL\obj\Debug\netcoreapp5.0\CHAFIAP.DAL.AssemblyInfo.cs
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.DAL\obj\Debug\netcoreapp5.0\CHAFIAP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Natanael\Documents\C# FIAP\CHAFIAP\CHAFIAP.DAL\obj\Debug\netcoreapp5.0\CHAFIAP.DAL.csprojAssemblyReference.cache
